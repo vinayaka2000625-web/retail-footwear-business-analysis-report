@@ -17,8 +17,8 @@
 
 This project presents a comprehensive business research and strategic analysis of a footwear store. The report evaluates the store business model, product portfolio, market positioning, and competitive strategy using structured research methodology.
 
-The objective of this study is to analyze footwear industry dynamics and provide strategic recommendations to improve business performance and long-term sustainability.
-Sensitive information has been excluded to maintain confidentiality.  
+The objective of this study is to analyze footwear industry dynamics and provide strategic recommendations to improve business performance and long-term sustainability.<br>
+Note : Sensitive information has been excluded to maintain confidentiality.  
 
 ---
 
