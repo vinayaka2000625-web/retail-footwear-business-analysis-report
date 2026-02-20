@@ -82,10 +82,10 @@ The footwear industry is highly rising, competitive and influenced by changing f
 - Sources: surveys, interviews, or observations.<br>
 -The data was interpreted to generate actionable insights.
    
-### Sales data shows
+### Sales data shows<br>
 -The data is shows sales (increases in %) of Footwear store and it is fluctuating since last 5 years.<br>
 
-### Profit data shows
+### Profit data shows<br>
 -The data shows the analysis of profit of Footwear in last 4years. The profit has been in fluctuating every year.<br>
 
 -Note: The above Sales and Profit data is provided for illustration purposes only and does not represent actual figures in report.
