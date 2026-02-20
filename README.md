@@ -1,5 +1,4 @@
-# retail-footwear-business-analysis-report
-# # Retail Footwear Store Business Analysis Report
+ # Retail Footwear Store Business Analysis Report
 
 ## Table of Contents
 - [Project Overview](#project-overview)
